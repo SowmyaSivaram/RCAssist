@@ -53,9 +53,9 @@ The application is designed to be run with Docker, which simplifies the setup an
 
 ### Running the Application
 
-1.  **Clone the repository** (if you haven't already):
+1.  **Clone the repository**:
     ````bash
-    git clone <your-repository-url>
+    git clone https://github.com/SowmyaSivaram/RCAssist.git
     cd RCAssist
     ````
 
