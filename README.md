@@ -1,8 +1,4 @@
----
-title: RCAssist
-sdk: docker
-app_port: 7860
----
+
 # RCAssist: Log Classification and Root Cause Analysis Assistant
 
 RCAssist is a tool designed to help developers and operations teams make sense of application logs. It goes beyond simple log viewing by automatically classifying logs, identifying potential errors, and suggesting a root cause and a recommended course of action. The goal is to reduce the time spent manually digging through logs to find the source of a problem.
